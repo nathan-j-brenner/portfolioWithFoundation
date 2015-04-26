@@ -1,0 +1,45 @@
+/*fonts*/
+h1 {
+	font-family: 'Architects Daughter', cursive;
+}
+
+
+footer {
+	background-color:#333;
+	color: #fff;
+}
+
+.container {
+	font-family: 'Raleway', sans-serif;
+	background-color: #AAAAAA;
+}
+/*Social Icons*/
+
+i {
+	font-size: 50px;
+	color: black;
+}
+.fi-social-linkedin {
+	color: #1884BB;
+}
+
+.fi-social-facebook {
+	color: #47639E;
+}
+
+.fi-social-twitter {
+	color: #55ACEE;
+}
+
+.fi-social-treehouse {
+	color: #5FCF80;
+}
+
+.fi-social-google-plus {
+	color: #DD4B39;
+}
+
+.fi-social-blogger {
+	color: #615F8B;
+}
+
