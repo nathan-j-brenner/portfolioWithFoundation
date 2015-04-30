@@ -43,3 +43,18 @@ i {
 	color: #615F8B;
 }
 
+/*Other Stuff*/
+#campingImg {
+	height: 300px;
+	width: 100%;
+}
+/*@media only screen and (min-width: 40.063em) {
+	#campingImg {
+
+	}
+}*/
+
+css animations
+.project:hover {
+	-webkit-transform: scale(1.5) translate(-100px);
+}
